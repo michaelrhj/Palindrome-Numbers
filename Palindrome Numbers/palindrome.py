@@ -1,0 +1,1 @@
+palindrome_input = input("Enter number ")
